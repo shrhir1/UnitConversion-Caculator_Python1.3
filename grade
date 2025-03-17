@@ -1,0 +1,41 @@
+
+Programming Assignment 3
+**********************************
+Specification :
+convert.py is present +3 points
+convert.py has a comment author +1 points
+convert.py has a comment date +1 points
+convert.py has a comment file +1 points
+convert.py has a comment input +1 points
+convert.py has a comment output +1 points
+
+**********************************
+Loops and Conditionals :
+convert.py has while-loop +3 points
+convert.py has if-else +3 points
+convert.py has elif +3 points
+
+**********************************
+Uses Functions :
+convert.py has function def format +2 points
+convert.py has function def isfloat +2 points
+convert.py has function def pounds_kg +2 points
+convert.py has function def miles_km +2 points
+convert.py has function def fahrenheit_celsius +2 points
+
+**********************************
+Performance :
+
+for input file ex1:
+convert.py runs without errors for simple, properly formated types of input +10 points
+output is correct +7 points
+
+for input file ex2:
+convert.py runs without errors for for all formats of string input, has correct error handling +9 points
+output is correct +7 points
+
+**********************************
+Your grade is 60 out of 60 
+
+        
+
